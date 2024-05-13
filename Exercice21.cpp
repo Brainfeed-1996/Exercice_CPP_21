@@ -1,5 +1,5 @@
 /*
-Afficher toutes les manières possibles d’obtenir un euro avec des pièces de 2 cents, 5 cents et 10 cents. Dire combien de possibilités ont été ainsi trouvées.
+Affiche toutes les manières possibles d’obtenir un euro avec des pièces de 2 cents, 5 cents et 10 cents. Dire combien de possibilités ont été ainsi trouvées.
 Rappelons que l’insertion dans le flot cout d’une expression de la forme setw(n, où n est une expression entière, demande de réaliser l’affichage suivant (et uniquement ce dernier) sur n caractères au minimum. L’emploi de setw nécessite l’inclusion du fichier iomanip.
 */
 
