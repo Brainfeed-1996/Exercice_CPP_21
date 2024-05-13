@@ -27,7 +27,7 @@ int main()
     cout << "Valeur du terme de rang " << n << " : " << u3 ;
 }
 
-/*Résultat 
+/*Résultat :
 rang du terme demandé (au moins 3) ? 21
 Valeur du terme de rang 21 : 17711
 
